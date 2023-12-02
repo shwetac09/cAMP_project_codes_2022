@@ -1,5 +1,5 @@
 # trial calling home brewed r functions
-#setwd("D:/Shweta/LAB/analysis_with_dcya_4mM_camp/logfc12pval001/clustering_gene_trends_08_07_20/")
+
 
 
 # heatmap and clustering ------
